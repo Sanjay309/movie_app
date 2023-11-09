@@ -35,6 +35,7 @@ Start the server
 ```
 
 Check all available API in swagger doc - http://localhost:8000/redoc/
+
     /doc (Our nice pretty Swagger UI view of API doc)
     /redoc (A pretty Redoc view of API doc)
 
