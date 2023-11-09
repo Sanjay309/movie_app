@@ -34,7 +34,7 @@ Start the server
   python manage.py runserver
 ```
 
-Check all available API in swagger doc - http://localhost:8000/doc/
+Check all available API in swagger doc - http://localhost:8000/redoc/
 
     /spec.json (json spec of API doc)
     /spec.yaml (yaml spec of API doc)
