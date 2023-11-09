@@ -8,13 +8,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Sanjay309/chatApplication
+  git clone https://github.com/Sanjay309/movie_app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd riktamProject
+  cd movie
 ```
 
 Install dependencies
